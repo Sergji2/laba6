@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab6\Quaternion\bin\Debug\net8.0\Quaternion.exe
+D:\codes\asd\ConsoleLab6\Quaternion\bin\Debug\net8.0\Quaternion.deps.json
+D:\codes\asd\ConsoleLab6\Quaternion\bin\Debug\net8.0\Quaternion.runtimeconfig.json
+D:\codes\asd\ConsoleLab6\Quaternion\bin\Debug\net8.0\Quaternion.dll
+D:\codes\asd\ConsoleLab6\Quaternion\bin\Debug\net8.0\Quaternion.pdb
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.dll
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\refint\Quaternion.dll
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.pdb
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\Quaternion.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab6\Quaternion\obj\Debug\net8.0\ref\Quaternion.dll

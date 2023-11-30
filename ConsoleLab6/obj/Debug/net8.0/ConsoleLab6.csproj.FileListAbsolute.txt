@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\ConsoleLab6.exe
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\ConsoleLab6.deps.json
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\ConsoleLab6.runtimeconfig.json
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\ConsoleLab6.dll
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\ConsoleLab6.pdb
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.dll
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\refint\ConsoleLab6.dll
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.pdb
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ConsoleLab6.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ref\ConsoleLab6.dll

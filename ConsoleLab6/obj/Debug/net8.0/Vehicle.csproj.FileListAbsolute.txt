@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\Vehicle.exe
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\Vehicle.deps.json
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\Vehicle.runtimeconfig.json
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\Vehicle.dll
+D:\codes\asd\ConsoleLab6\ConsoleLab6\bin\Debug\net8.0\Vehicle.pdb
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.dll
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\refint\Vehicle.dll
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.pdb
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\Vehicle.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab6\ConsoleLab6\obj\Debug\net8.0\ref\Vehicle.dll

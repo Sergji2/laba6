@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab6\MathOperations\bin\Debug\net8.0\MathOperations.exe
+D:\codes\asd\ConsoleLab6\MathOperations\bin\Debug\net8.0\MathOperations.deps.json
+D:\codes\asd\ConsoleLab6\MathOperations\bin\Debug\net8.0\MathOperations.runtimeconfig.json
+D:\codes\asd\ConsoleLab6\MathOperations\bin\Debug\net8.0\MathOperations.dll
+D:\codes\asd\ConsoleLab6\MathOperations\bin\Debug\net8.0\MathOperations.pdb
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.dll
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\refint\MathOperations.dll
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.pdb
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\MathOperations.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab6\MathOperations\obj\Debug\net8.0\ref\MathOperations.dll
